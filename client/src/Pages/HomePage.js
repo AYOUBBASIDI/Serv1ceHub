@@ -7,13 +7,12 @@ const HomePage = () => {
   const [circlePosition, setCirclePosition] = useState(null);
   const [circleColor, setCircleColor] = useState(null);
   const [circleSize, setCircleSize] = useState(20);
-
-
+  const apiurl = process.env.SERVICE_HUB_API_URL;
+  console.log(process.env);
   useEffect(() => {
     const fetchData = async () => {
-      const apiurl = process.env.SERVICE_HUB_API_URL;
       try {
-        const response = await axios.get(apiurl+'services/', {
+        const response = await axios.get('http://localhost:3500/servicehub/api/v1/services/', {
           withCredentials: true,
           headers: {
             'Content-Type': 'application/json',

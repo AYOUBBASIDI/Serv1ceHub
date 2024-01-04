@@ -5,12 +5,11 @@ import '../App.css'; // Import Tailwind styles
 
 const Service1 = () => {
   const [isDownloadChecked, setDownloadChecked] = useState(false);
-
+  const apiurl = process.env.SERVICE_HUB_API_URL;
   const downloadPlaylist = async () => {
     const playlistId = prompt('Enter Spotify Playlist ID:');
-    const apiurl = process.env.SERVICE_HUB_API_URL;
     try {
-      await axios.post(apiurl+'services/service1/', {playlistId});
+      await axios.post('http://localhost:3500/servicehub/api/v1/services/service1/', {playlistId});
     } catch (error) {
       console.error('Error using service:', error);
     }
