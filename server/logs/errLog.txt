@@ -1,0 +1,43 @@
+20240104	15:13:47	a8519024-1cf5-4cfa-af34-46cea6414211	Error: ENOENT: no such file or directory, stat 'C:\Users\ayoub\Documents\.work\Serv1ceHub\server\views\404.html'
+20240104	15:13:48	fbd406e7-4bd4-4b7e-ad2c-645cb9768ae8	Error: ENOENT: no such file or directory, stat 'C:\Users\ayoub\Documents\.work\Serv1ceHub\server\views\404.html'
+20240104	15:14:56	6de79009-73bd-4b38-b95a-70e11895938c	Error: Not allowed by CORS
+20240104	15:15:07	9f460ba9-ed83-4f40-981d-519357d28339	Error: Not allowed by CORS
+20240104	15:15:12	a17eb1ad-42d5-46fa-8d19-e67a7cb9e429	Error: Not allowed by CORS
+20240104	15:17:14	315d5645-858c-4bd5-af44-5de27a3e7a93	Error: ENOENT: no such file or directory, stat 'C:\Users\ayoub\Documents\.work\Serv1ceHub\server\views\404.html'
+20240104	16:06:45	c7eba715-dd70-4eaa-a324-5a89ae9a49ed	Error: ENOENT: no such file or directory, stat 'C:\Users\ayoub\Documents\.work\Serv1ceHub\server\views\404.html'
+20240104	16:18:49	4e7b2c0b-d198-4a10-a77e-234d7ddc1291	Error: Not allowed by CORS
+20240104	16:18:49	99a6d5c7-72d6-4a6a-80e1-0b02048cb1dd	Error: Not allowed by CORS
+20240104	16:19:38	fe41827f-87e6-4858-a9a5-6d5b74f35374	Error: Not allowed by CORS
+20240104	16:19:39	27f4f120-b869-4a7b-9c36-3c9fb5d96069	Error: Not allowed by CORS
+20240104	16:20:00	5278ff59-1eb7-4212-9dc5-4ae6b4d250e8	Error: Not allowed by CORS
+20240104	16:20:00	58371f1c-50b4-4b09-89d4-3a854684b4ac	Error: Not allowed by CORS
+20240104	16:21:13	cc5e4de9-1021-4320-b075-b0bf92268adb	Error: Not allowed by CORS
+20240104	16:21:14	a9d46698-6819-4616-b04e-b07a6bc772f8	Error: Not allowed by CORS
+20240104	16:21:38	c28ef895-13b9-4b34-8390-28821f1bfad2	Error: Not allowed by CORS
+20240104	16:21:38	9a039447-80fc-4501-ba01-14192d2820e8	Error: Not allowed by CORS
+20240104	16:23:16	a75a9c02-bd62-41d0-b488-46f95dba8198	Error: Not allowed by CORS
+20240104	16:23:17	6d28b963-518d-4f9b-8c26-0a0fe3b21cc0	Error: Not allowed by CORS
+20240104	16:23:18	9cda2c7e-0192-45c0-add9-305a3f308677	Error: Not allowed by CORS
+20240104	16:23:20	bcc95a46-b991-42fb-9069-a54750951a5e	Error: Not allowed by CORS
+20240104	16:23:21	65cdf99d-857a-4c29-a667-a0df476d3c7d	Error: Not allowed by CORS
+20240104	16:23:23	10b92c9b-06dd-47b7-9310-81d30c99a745	Error: Not allowed by CORS
+20240104	16:23:34	c4f0d650-c2f7-44bb-a9aa-a829464f3bf5	Error: Not allowed by CORS
+20240104	16:23:34	b54416fd-de7e-4968-961c-e5ec3124a9d3	Error: Not allowed by CORS
+20240104	16:26:10	6a51fbc8-82a0-4014-8a02-1a2b8dad9c94	Error: Not allowed by CORS
+20240104	16:26:10	358bf8ac-abfb-4e05-9a96-5e6d60aa605b	Error: Not allowed by CORS
+20240104	16:26:38	929e2230-22aa-4524-bd58-9100b753d8ed	Error: Not allowed by CORS
+20240104	16:26:38	397ec602-905f-40ea-989a-9b9adad1bfe7	Error: Not allowed by CORS
+20240104	16:27:04	fa2e9514-ae30-4289-971a-7ba1427127b3	Error: Not allowed by CORS
+20240104	16:27:05	e3643968-e85f-46a4-a267-3e2e31555f57	Error: Not allowed by CORS
+20240104	16:27:07	9310f7b0-3726-4a0b-82b7-b1a927d79ff3	Error: Not allowed by CORS
+20240104	16:27:09	af6e9384-e84f-45aa-a44a-cf8603cf9289	Error: Not allowed by CORS
+20240104	16:27:10	fc865ead-bc3e-4208-a7ed-8672d5c26715	Error: Not allowed by CORS
+20240104	16:27:12	8278936d-1813-4654-a100-743cf9ea4045	Error: Not allowed by CORS
+20240104	16:27:16	52935c76-f1cd-445e-a8e0-8edc5d280e26	Error: Not allowed by CORS
+20240104	16:27:16	507e19f6-8023-46d3-9e51-3bcb25d2b278	Error: Not allowed by CORS
+20240104	16:27:19	cabb2d35-56d9-48bf-9f3c-64f5624d9826	Error: Not allowed by CORS
+20240104	16:27:20	e7760f48-c64c-40a7-821b-3d6e83694d31	Error: Not allowed by CORS
+20240104	16:27:28	299472c1-80eb-40ac-8759-714f66ab209f	Error: Not allowed by CORS
+20240104	16:27:29	c612d837-d49b-4b89-b913-fd15cfe8d838	Error: Not allowed by CORS
+20240104	16:27:32	a9363ab0-efe7-41a3-9007-97b13eb181a3	Error: Not allowed by CORS
+20240104	16:27:32	53791a60-37f5-4bbf-98cc-18822215beef	Error: Not allowed by CORS
