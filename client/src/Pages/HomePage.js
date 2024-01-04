@@ -11,8 +11,9 @@ const HomePage = () => {
 
   useEffect(() => {
     const fetchData = async () => {
+      const apiurl = process.env.SERVICE_HUB_API_URL;
       try {
-        const response = await axios.get('http://localhost:3500/servicehub/api/v1/services/', {
+        const response = await axios.get(apiurl+'services/', {
           withCredentials: true,
           headers: {
             'Content-Type': 'application/json',
