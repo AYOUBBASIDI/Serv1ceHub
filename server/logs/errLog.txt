@@ -61,3 +61,5 @@
 20240106	19:14:22	2fc59d16-a992-40b4-9e48-21da8f04571b	Error: ENOENT: no such file or directory, stat 'C:\Users\ayoub\Documents\.work\Serv1ceHub\server\views\404.html'
 20240106	19:14:23	f14a3e70-296f-415f-b4fb-fb56c37f9cd0	Error: ENOENT: no such file or directory, stat 'C:\Users\ayoub\Documents\.work\Serv1ceHub\server\views\404.html'
 20240106	19:14:30	c79bcda6-2b09-43e7-8786-e80a09c1da1d	Error: ENOENT: no such file or directory, stat 'C:\Users\ayoub\Documents\.work\Serv1ceHub\server\views\404.html'
+20240106	19:28:49	bd08ec3b-ff97-4a05-9c5a-c6d99b81ec01	Error: Not allowed by CORS
+20240106	19:28:49	462fe1c6-2b07-4745-b85f-80ef8f83abb0	Error: Not allowed by CORS

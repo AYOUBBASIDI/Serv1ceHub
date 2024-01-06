@@ -84,3 +84,5 @@
 20240106	19:14:23	18f5d8e8-284a-4e89-8ff2-b227b4e6e463	GET	undefined	/favicon.ico
 20240106	19:14:30	08cae39d-3f68-485b-bb06-2032806b3785	GET	undefined	/servicehub/api/v1/services
 20240106	19:14:30	5a2c39db-ddc4-4d11-bfb0-7e7f08134435	GET	undefined	/favicon.ico
+20240106	19:28:49	447288a2-c180-43e2-ae00-e835bfb17497	OPTIONS	https://serv1ce-hub.vercel.app	/servicehub/api/v1/services/
+20240106	19:28:49	b0aa713d-c448-485b-ad19-86e1eeef8b7f	GET	https://serv1ce-hub.vercel.app	/servicehub/api/v1/services/
