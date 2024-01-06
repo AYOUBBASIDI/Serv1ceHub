@@ -41,3 +41,23 @@
 20240104	16:27:29	c612d837-d49b-4b89-b913-fd15cfe8d838	Error: Not allowed by CORS
 20240104	16:27:32	a9363ab0-efe7-41a3-9007-97b13eb181a3	Error: Not allowed by CORS
 20240104	16:27:32	53791a60-37f5-4bbf-98cc-18822215beef	Error: Not allowed by CORS
+20240106	19:12:44	9b1ce015-a503-48e9-a6e5-7377abf2a1fa	Error: ENOENT: no such file or directory, stat 'C:\Users\ayoub\Documents\.work\Serv1ceHub\server\views\404.html'
+20240106	19:12:53	7c019049-57f4-4b74-8010-8b527cc7bca9	Error: ENOENT: no such file or directory, stat 'C:\Users\ayoub\Documents\.work\Serv1ceHub\server\views\404.html'
+20240106	19:12:53	d0e518c5-f7be-4c29-b4be-937b8fb1025e	Error: ENOENT: no such file or directory, stat 'C:\Users\ayoub\Documents\.work\Serv1ceHub\server\views\404.html'
+20240106	19:12:57	3a283c9a-cb9f-4b0b-b5ec-1d7d5c953831	Error: ENOENT: no such file or directory, stat 'C:\Users\ayoub\Documents\.work\Serv1ceHub\server\views\404.html'
+20240106	19:12:57	11fc2074-fadc-4330-b7d5-8d1820033f5d	Error: ENOENT: no such file or directory, stat 'C:\Users\ayoub\Documents\.work\Serv1ceHub\server\views\404.html'
+20240106	19:13:15	2e4200c4-622d-48be-8a97-c96e64aeab64	Error: ENOENT: no such file or directory, stat 'C:\Users\ayoub\Documents\.work\Serv1ceHub\server\views\404.html'
+20240106	19:13:15	13ae007d-2eea-496b-8ec2-40820281ceeb	Error: ENOENT: no such file or directory, stat 'C:\Users\ayoub\Documents\.work\Serv1ceHub\server\views\404.html'
+20240106	19:13:27	80634884-44e8-4652-b990-8b5b5ab3e136	Error: ENOENT: no such file or directory, stat 'C:\Users\ayoub\Documents\.work\Serv1ceHub\server\views\404.html'
+20240106	19:13:28	4c972852-fbca-4cfc-98e5-ba51d4df2750	Error: ENOENT: no such file or directory, stat 'C:\Users\ayoub\Documents\.work\Serv1ceHub\server\views\404.html'
+20240106	19:13:37	7b0b6228-8c02-4309-9c02-92cdc8b0d17a	Error: ENOENT: no such file or directory, stat 'C:\Users\ayoub\Documents\.work\Serv1ceHub\server\views\404.html'
+20240106	19:13:37	fabe99d4-b8f0-4f27-8f43-c7679063fb33	Error: ENOENT: no such file or directory, stat 'C:\Users\ayoub\Documents\.work\Serv1ceHub\server\views\404.html'
+20240106	19:13:38	91504832-5f13-48d3-ace7-8b393d539f0b	Error: ENOENT: no such file or directory, stat 'C:\Users\ayoub\Documents\.work\Serv1ceHub\server\views\404.html'
+20240106	19:13:38	4f5135af-52cf-4561-8f98-b6dbef2152e3	Error: ENOENT: no such file or directory, stat 'C:\Users\ayoub\Documents\.work\Serv1ceHub\server\views\404.html'
+20240106	19:13:39	34ba456d-1140-4a2a-baf9-da366167309c	Error: ENOENT: no such file or directory, stat 'C:\Users\ayoub\Documents\.work\Serv1ceHub\server\views\404.html'
+20240106	19:13:39	f2741115-5501-47d5-9296-d519a6aea4fe	Error: ENOENT: no such file or directory, stat 'C:\Users\ayoub\Documents\.work\Serv1ceHub\server\views\404.html'
+20240106	19:14:21	c6fedcff-57ff-4d72-8e5a-dd30fe4f7cbb	Error: ENOENT: no such file or directory, stat 'C:\Users\ayoub\Documents\.work\Serv1ceHub\server\views\404.html'
+20240106	19:14:21	630f28f2-ee0e-4ea7-b2a8-c05b2e591787	Error: ENOENT: no such file or directory, stat 'C:\Users\ayoub\Documents\.work\Serv1ceHub\server\views\404.html'
+20240106	19:14:22	2fc59d16-a992-40b4-9e48-21da8f04571b	Error: ENOENT: no such file or directory, stat 'C:\Users\ayoub\Documents\.work\Serv1ceHub\server\views\404.html'
+20240106	19:14:23	f14a3e70-296f-415f-b4fb-fb56c37f9cd0	Error: ENOENT: no such file or directory, stat 'C:\Users\ayoub\Documents\.work\Serv1ceHub\server\views\404.html'
+20240106	19:14:30	c79bcda6-2b09-43e7-8786-e80a09c1da1d	Error: ENOENT: no such file or directory, stat 'C:\Users\ayoub\Documents\.work\Serv1ceHub\server\views\404.html'

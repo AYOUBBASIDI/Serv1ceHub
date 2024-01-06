@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server",
     "dev": "nodemon server",
-    "vercel-build": "echo hello"
+    "build": "npm install"
   },
   "author": "Dave Gray",
   "license": "ISC",
