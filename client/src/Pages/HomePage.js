@@ -12,7 +12,7 @@ const HomePage = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await axios.get('http://localhost:3500/servicehub/api/v1/services/', {
+        const response = await axios.get('https://serv1cehub-api.vercel.app/servicehub/api/v1/services/', {
           withCredentials: true,
           headers: {
             'Content-Type': 'application/json',

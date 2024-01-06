@@ -9,7 +9,7 @@ const Service1 = () => {
   const downloadPlaylist = async () => {
     const playlistId = prompt('Enter Spotify Playlist ID:');
     try {
-      await axios.post('http://localhost:3500/servicehub/api/v1/services/service1/', {playlistId});
+      await axios.post('https://serv1cehub-api.vercel.app/servicehub/api/v1/services/service1/', {playlistId});
     } catch (error) {
       console.error('Error using service:', error);
     }
