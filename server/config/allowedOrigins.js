@@ -1,5 +1,5 @@
 const allowedOrigins = [
-    'http://localhost:3000'
+    'https://serv1ce-hub.vercel.app'
 ];
 
 module.exports = allowedOrigins;

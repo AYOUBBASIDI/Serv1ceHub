@@ -88,3 +88,7 @@
 20240106	19:28:49	b0aa713d-c448-485b-ad19-86e1eeef8b7f	GET	https://serv1ce-hub.vercel.app	/servicehub/api/v1/services/
 20240106	19:35:10	298f73d3-94d3-4fac-a0f4-f307fd9bda29	OPTIONS	https://serv1ce-hub.vercel.app	/servicehub/api/v1/services/
 20240106	19:35:10	81d4f671-9b4a-4f4a-bac6-cf89cb093a2d	GET	https://serv1ce-hub.vercel.app	/servicehub/api/v1/services/
+20240106	19:38:54	17098b9f-7564-4c78-9d3f-f0b798b34321	OPTIONS	https://serv1ce-hub.vercel.app	/servicehub/api/v1/services/
+20240106	19:38:54	3a03a69d-c969-4252-8da6-ad26a314dfac	GET	https://serv1ce-hub.vercel.app	/servicehub/api/v1/services/
+20240106	19:39:09	6f9d32be-d1ff-44e0-a11d-9bdc9a16ffdb	OPTIONS	https://serv1ce-hub.vercel.app	/servicehub/api/v1/services/
+20240106	19:39:09	71fb34b4-08a2-4ffc-9196-c89c0b451bb6	GET	https://serv1ce-hub.vercel.app	/servicehub/api/v1/services/
